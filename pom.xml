@@ -9,7 +9,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
-			<artifactId>shahar-test</artifactId>
+			<artifactId>shahar-test01032022</artifactId>
 		</dependency>
 		<!-- tesstingggg  -->
 		
