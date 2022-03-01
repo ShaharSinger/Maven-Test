@@ -9,6 +9,13 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>shahar-test</artifactId>
+		</dependency>
+		<!-- tesstingggg  -->
+		
+		
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
 		</dependency>
 		<!--  Used for OSGi bundle support  -->
